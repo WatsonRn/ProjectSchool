@@ -1,0 +1,16 @@
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\appProyectoLaura.exe.config
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\appProyectoLaura.exe
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\appProyectoLaura.pdb
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.Properties.Resources.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.exe
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.pdb
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmLogin.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmPrincipal.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmSCI.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmSplashScreen.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\Resources\Splash.jpg
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\Resources\loginUser.png
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmAgregar.resources
+c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmLista.resources

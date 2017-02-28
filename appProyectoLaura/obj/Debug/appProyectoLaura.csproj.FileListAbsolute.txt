@@ -14,3 +14,4 @@ c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyec
 c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\bin\Debug\Resources\loginUser.png
 c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmAgregar.resources
 c:\users\master\documents\visual studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmLista.resources
+C:\Users\Master\Documents\Visual Studio 2012\Projects\appProyectoLaura\appProyectoLaura\obj\Debug\appProyectoLaura.frmModificar.resources

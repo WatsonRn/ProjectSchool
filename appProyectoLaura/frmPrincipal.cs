@@ -47,5 +47,12 @@ namespace appProyectoLaura
             ag.MdiParent = this;
             ag.Show();
         }
+
+        private void tlsModificar_Click(object sender, EventArgs e)
+        {
+            frmModificar mod = new frmModificar();
+            mod.MdiParent = this;
+            mod.Show();
+        }
     }
 }

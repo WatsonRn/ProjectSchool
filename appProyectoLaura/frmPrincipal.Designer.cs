@@ -85,6 +85,7 @@
             this.tlsModificar.Name = "tlsModificar";
             this.tlsModificar.Size = new System.Drawing.Size(121, 34);
             this.tlsModificar.Text = "Modificar";
+            this.tlsModificar.Click += new System.EventHandler(this.tlsModificar_Click);
             // 
             // toolStripSeparator1
             // 

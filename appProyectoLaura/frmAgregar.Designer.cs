@@ -208,7 +208,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.BackgroundImage = global::appProyectoLaura.Properties.Resources.Back4;
             this.ClientSize = new System.Drawing.Size(519, 258);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.btnCancelar);

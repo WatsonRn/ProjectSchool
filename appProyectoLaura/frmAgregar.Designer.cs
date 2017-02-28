@@ -51,6 +51,7 @@
             // lblParte
             // 
             this.lblParte.AutoSize = true;
+            this.lblParte.BackColor = System.Drawing.Color.Transparent;
             this.lblParte.Location = new System.Drawing.Point(26, 20);
             this.lblParte.Name = "lblParte";
             this.lblParte.Size = new System.Drawing.Size(45, 13);
@@ -60,6 +61,7 @@
             // lblCantidad
             // 
             this.lblCantidad.AutoSize = true;
+            this.lblCantidad.BackColor = System.Drawing.Color.Transparent;
             this.lblCantidad.Location = new System.Drawing.Point(26, 47);
             this.lblCantidad.Name = "lblCantidad";
             this.lblCantidad.Size = new System.Drawing.Size(52, 13);
@@ -69,6 +71,7 @@
             // lblModelo
             // 
             this.lblModelo.AutoSize = true;
+            this.lblModelo.BackColor = System.Drawing.Color.Transparent;
             this.lblModelo.Location = new System.Drawing.Point(26, 78);
             this.lblModelo.Name = "lblModelo";
             this.lblModelo.Size = new System.Drawing.Size(45, 13);
@@ -78,6 +81,7 @@
             // lblNParte
             // 
             this.lblNParte.AutoSize = true;
+            this.lblNParte.BackColor = System.Drawing.Color.Transparent;
             this.lblNParte.Location = new System.Drawing.Point(26, 104);
             this.lblNParte.Name = "lblNParte";
             this.lblNParte.Size = new System.Drawing.Size(90, 13);
@@ -87,6 +91,7 @@
             // txtLocalizacion
             // 
             this.txtLocalizacion.AutoSize = true;
+            this.txtLocalizacion.BackColor = System.Drawing.Color.Transparent;
             this.txtLocalizacion.Location = new System.Drawing.Point(229, 50);
             this.txtLocalizacion.Name = "txtLocalizacion";
             this.txtLocalizacion.Size = new System.Drawing.Size(69, 13);
@@ -96,6 +101,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Location = new System.Drawing.Point(229, 15);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(66, 13);
@@ -105,6 +111,7 @@
             // lblNomCuarto
             // 
             this.lblNomCuarto.AutoSize = true;
+            this.lblNomCuarto.BackColor = System.Drawing.Color.Transparent;
             this.lblNomCuarto.Location = new System.Drawing.Point(229, 81);
             this.lblNomCuarto.Name = "lblNomCuarto";
             this.lblNomCuarto.Size = new System.Drawing.Size(98, 13);
@@ -114,11 +121,12 @@
             // lblDescripcion
             // 
             this.lblDescripcion.AutoSize = true;
+            this.lblDescripcion.BackColor = System.Drawing.Color.Transparent;
             this.lblDescripcion.Location = new System.Drawing.Point(26, 137);
             this.lblDescripcion.Name = "lblDescripcion";
-            this.lblDescripcion.Size = new System.Drawing.Size(66, 13);
+            this.lblDescripcion.Size = new System.Drawing.Size(68, 13);
             this.lblDescripcion.TabIndex = 7;
-            this.lblDescripcion.Text = "Descripcion:";
+            this.lblDescripcion.Text = "Comentarios:";
             // 
             // textBox1
             // 
@@ -200,6 +208,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackgroundImage = global::appProyectoLaura.Properties.Resources.Back4;
             this.ClientSize = new System.Drawing.Size(519, 258);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.btnCancelar);
